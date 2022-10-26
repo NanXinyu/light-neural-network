@@ -1,0 +1,4 @@
+yacs
+tensorboardX
+json_tricks
+pycocotools
